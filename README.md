@@ -1,3 +1,3 @@
 # data-visualization-
 
-![FIRST !](Screenshot 2022-11-06 135300.jpg)
+![FIRST !](https://github.com/unknow9090/data-visualization-/blob/main/Screenshot%202022-11-06%20135300.jpg)
